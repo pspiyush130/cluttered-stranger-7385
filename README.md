@@ -33,11 +33,10 @@
 
 
 
+ <div>  <h3>logo </h3>  
  
- <h3>logo :"Techmint"</h3> 
+  ![favicon-32x32](https://github.com/pspiyush130/cluttered-stranger-7385/assets/118152296/e7447dbb-d98d-423c-bcef-9acc08b697e8) </div>
 
- 
- ![favicon-32x32](https://github.com/pspiyush130/cluttered-stranger-7385/assets/118152296/e7447dbb-d98d-423c-bcef-9acc08b697e8)
 
  
  ## 🌐 Deployed Link : https://
