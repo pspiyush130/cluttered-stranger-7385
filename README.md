@@ -6,7 +6,7 @@
        
  <h2>Block 27 - Construct Week Group Project</h2>
  <h3>Project Code : cluttered-stranger-7385</h3>
-  <h3>Project Name :TechMintn</h3>
+  <h3>Project Name :TechMint</h3>
   
 
  </div>
@@ -60,7 +60,7 @@
 
  
  <div aling="left">
-  <p>   Welcome toTechmint's GitHub page. Here, we share our commitment to promoting sustainable and responsible tourism through the power of technology. Our open-source projects aim to create innovative tools that make it easier for ecotourism enthusiasts to find sustainable travel experiences and learn about environmental conservation. We believe that collaboration and technology can be powerful tools in promoting sustainable tourism, and we invite you to join us in our mission to protect the planet through responsible travel.
+  <p>   Welcome to Techmint's GitHub page. Here, we share our commitment to promoting sustainable and responsible tourism through the power of technology. Our open-source projects aim to create innovative tools that make it easier for ecotourism enthusiasts to find sustainable travel experiences and learn about environmental conservation. We believe that collaboration and technology can be powerful tools in promoting sustainable tourism, and we invite you to join us in our mission to protect the planet through responsible travel.
 This project might ( and certainly does ) have bugs, vulnerabilities, or some other types of issues. So, contributions are always welcome ☺
  The demo is under free hosting, so it may require a bit of patience ☺ </p>
 
