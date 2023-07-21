@@ -5,19 +5,22 @@ import '../components/Home.css';
 const Home = () => {
   const services = [
     {
-      title: 'Web Design',
+      title: 'Web Design 💻',
       description: 'We create beautiful and user-friendly web designs to captivate your audience.',
-      icon: <i className="fas fa-desktop"></i>, // You can use font-awesome icons or any other icon library
+      icon: <i className="fas fa-desktop"></i>,
+      // You can use font-awesome icons or any other icon library
     },
     {
-      title: 'Web Development',
+      title: 'Web Development 🌐',
       description: 'Our expert developers build robust and scalable web applications for your business needs.',
       icon: <i className="fas fa-code"></i>,
+      
     },
     {
-      title: 'Digital Marketing',
+      title: 'Digital Marketing 📈',
       description: 'We offer tailored digital marketing strategies to promote your brand and drive growth.',
       icon: <i className="fas fa-bullhorn"></i>,
+    
     },
   ];
 
@@ -25,10 +28,13 @@ const Home = () => {
     <div className="home">
         
       <h1>TechMint!</h1>
+      
+     
+      <h2>💻</h2>
       <p id="mono">We provide innovative web solutions to help your<br></br> business grow and succeed online.</p>
       <div className="button-with-text">
         <p>Some Text Aligned to the Left</p>
-        <button>Click Me</button>
+        <button id='btn'>Click Me</button>
       </div>
       <div className="services-section">
         {services.map((service, index) => (
