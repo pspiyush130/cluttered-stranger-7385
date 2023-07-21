@@ -1,0 +1,15 @@
+.contact {
+    background-image:  url('bg2.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;  
+    background-size: cover;
+      text-align: center;
+      padding: 40px;
+   
+      
+      
+    }
+    form{
+        display: flex;
+        justify-content: space-between;
+    }

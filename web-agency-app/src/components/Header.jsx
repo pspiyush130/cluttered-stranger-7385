@@ -5,7 +5,13 @@ const Header = () => {
   return (
     <header>
       <nav>
+      <h3 className='logo'>TechMint </h3>
+     
+     
         <ul>
+         
+
+
           <li>
             <Link to="/">Home</Link>
           </li>
@@ -15,6 +21,7 @@ const Header = () => {
           <li>
             <Link to="/contact">Contact</Link>
           </li>
+         
         </ul>
       </nav>
     </header>

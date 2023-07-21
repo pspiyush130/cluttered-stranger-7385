@@ -1,13 +1,21 @@
 /* Header.css */
 header {
-    background-color: #333;
+  background-image:  url('bg2.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;  
+  background-size: cover;
+ 
     padding: 20px;
+    
   }
   
+  
+
   nav {
     display: flex;
     justify-content: space-between;
     align-items: center;
+    /* box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px; */
   }
   
   nav ul {
@@ -26,9 +34,10 @@ header {
   
   nav ul li a {
     text-decoration: none;
-    color: #fff;
+    color: #0a0a0a;
     font-size: 1.2rem;
     transition: color 0.3s ease;
+    margin: 10px;
   }
   
   nav ul li a:hover {
@@ -38,7 +47,9 @@ header {
   .logo {
     font-size: 1.8rem;
     font-weight: bold;
-    color: #fff;
-    text-decoration: none;
+    background: -webkit-linear-gradient(#b1afaf, #9e7e7e);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    
   }
   

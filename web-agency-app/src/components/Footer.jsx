@@ -3,7 +3,7 @@ import './Footer.css';
 const Footer = () => {
   return (
     <footer>
-      <p>&copy; {new Date().getFullYear()} Your Web Agency. All rights reserved.</p>
+      <p> All rights reserved by TechMint PVT LTD &copy; {new Date().getFullYear()}  </p>
     </footer>
   );
 };
