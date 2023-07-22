@@ -39,7 +39,7 @@
 
 
  
- ## 🌐 Deployed Link : https://
+ ## 🌐 Deployed Link : https://techmintt.netlify.app/
  
 
  </div>
