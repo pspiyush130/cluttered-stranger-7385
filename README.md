@@ -60,9 +60,9 @@
 
  
  <div aling="left">
-  <p>   Welcome to Techmint's GitHub page. Here, we share our commitment to promoting sustainable and responsible tourism through the power of technology. Our open-source projects aim to create innovative tools that make it easier for ecotourism enthusiasts to find sustainable travel experiences and learn about environmental conservation. We believe that collaboration and technology can be powerful tools in promoting sustainable tourism, and we invite you to join us in our mission to protect the planet through responsible travel.
-This project might ( and certainly does ) have bugs, vulnerabilities, or some other types of issues. So, contributions are always welcome ☺
- The demo is under free hosting, so it may require a bit of patience ☺ </p>
+  <p>   Welcome to Techmint's GitHub page. Our open-source projects aim to create innovative tools that make it easier for ecotourism enthusiasts to find sustainable travel experiences and learn about environmental conservation.
+This project might ( and certainly does ) have bugs, vulnerabilities, or other issues. So, contributions are always welcome ☺
+ The demo is under free hosting so that it may require a bit of patience ☺ </p>
 
 
 
@@ -75,7 +75,7 @@ This project might ( and certainly does ) have bugs, vulnerabilities, or some ot
 
 ✦ Browse section remembers your list choice, Filter the data according to your choice.
 
-✦ You can search items.
+✦ You can search for items.
  <div align="center">
    <h4> 🌏 “ Save The Nature   Go Green” 🌴 </h4>
    </div>
