@@ -8,7 +8,7 @@ const Home = () => {
       title: 'Web Design 💻',
       description: 'We create beautiful and user-friendly web designs to captivate your audience.',
       icon: <i className="fas fa-desktop"></i>,
-      // You can use font-awesome icons or any other icon library
+  
     },
     {
       title: 'Web Development 🌐',
@@ -33,7 +33,7 @@ const Home = () => {
       <h2>💻</h2>
       <p id="mono">We provide innovative web solutions to help your<br></br> business grow and succeed online.</p>
       <div className="button-with-text">
-        <p>Some Text Aligned to the Left</p>
+        <p>Get a quote</p>
         <button id='btn'>Click Me</button>
       </div>
       <div className="services-section">
